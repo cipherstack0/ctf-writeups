@@ -1,0 +1,6 @@
+*.ovpn
+*.pcap
+*.log
+loot/
+creds*
+.env
